@@ -18,17 +18,17 @@
                         <div class="col-12">
                             <div class="form-group">
                                 <label for="" class="control-label">Pargrafo</label>
-                                <textarea name="paragraph" id="paragraph" class="control-label" placeholder="parafrafo"></textarea>
+                                <textarea name="paragraph" id="paragraph" class="form-control" placeholder="parafrafo"></textarea>
                             </div>
                         </div>
                         <div class="col-12">
                             <div class="form-group">
                                 <label for="" class="control-label">Parola da censurare</label>
-                                <input name="word" id="word" class="control-label" placeholder="parola da censurare"></input>
+                                <input name="word" id="word" class="form-label" placeholder="parola da censurare"></input>
                             </div>
                         </div>
                         <div class="col-12">
-                            <button type="submit" class="btn btn-small btn-primary"></button>
+                            <button type="submit" class="btn btn-small btn-primary">send</button>
                         </div>
                     </div>
                 </form>

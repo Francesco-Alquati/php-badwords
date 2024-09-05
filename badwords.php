@@ -7,6 +7,20 @@
     <title>Badwords</title>
 </head>
 <body>
+    <div class="container">
+        <div class="row gy-3">
+            <div class="col-12">
+                <h3>paragrafo originario e sua lunghezza</h3>
+                <p><?php?></p>
+                <p>lunghezza del paragrafo <?php?></p>
+            </div>
+            <div class="col-12">
+                <h3>paragrafo originario e sua lunghezza</h3>
+                <p><?php?></p>
+                <p>lunghezza del paragrafo <?php?></p>
+            </div>
+        </div>
+    </div>
     
 </body>
 </html>
