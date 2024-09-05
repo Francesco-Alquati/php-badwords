@@ -24,7 +24,7 @@
                         <div class="col-12">
                             <div class="form-group">
                                 <label for="" class="control-label">Parola da censurare</label>
-                                <input name="word" id="word" class="form-label" placeholder="parola da censurare"></input>
+                                <input name="word" id="word" class="form-control" placeholder="parola da censurare"></input>
                             </div>
                         </div>
                         <div class="col-12">
